@@ -136,7 +136,7 @@
 
 
   .nav_item.active{
-    height: 480px;
+    height: 488px;
     opacity: 1;
   }
 }
@@ -149,7 +149,7 @@
     
   }
   .card_section{
-    padding: 0px 32px;
+    padding: 80px 32px;
   }
 }
 
@@ -159,6 +159,6 @@
     
   }
   .card_section{
-    padding: 20px;
+    padding: 80px 20px;
   }
 }
