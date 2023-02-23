@@ -29,6 +29,9 @@
 
 /* card section */
 .card_section{
+  background: url('./Asset/bg.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
   background-color: #FAD02C;
   padding: 80px 0px;
   flex-wrap: wrap;
