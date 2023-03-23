@@ -6,3 +6,5 @@ hamBargerMenu.onclick = function() {
   navBar = document.querySelector('.nav_item');
   navBar.classList.toggle('active')
 }
+
+console.log('im din')
